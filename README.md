@@ -3,7 +3,7 @@
 Small Java Swing recreation of Flappy Bird. Tap space to keep the bird aloft while threading between randomly placed pipes. The game uses a simple timer loop for animation and collision checks.
 
 ## How to run
-- Requirements: JDK 8+ (tested with desktop Java), a terminal, and `javac`/`java` on `PATH`.
+- Requirements: JDK 26 (tested with desktop Java), a terminal, and `javac`/`java` on `PATH`.
 - Compile (from the project root):
 	- Windows PowerShell: `javac -d bin -sourcepath src src/*.java`
 - Copy assets to the compiled output (needed once after compiling):
